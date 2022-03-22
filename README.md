@@ -1,4 +1,4 @@
-# msc_project_allocation
+# MSc project allocation
 Code for allocating student projects to supervisors based on the available projects, submitted choices, and staff workload. 
 
 In the Department of Electrical and Electronic Engineering at the University of Manchester we run 4 MSc courses (ACSE, CASP, EPSE and REACT) each of which can be taken as a one year or two year (ACSE_wER, CASP_wER, AEPSE, REACT_wER) option. Each student must be allocated a project supervisor. The code used for this is here.
